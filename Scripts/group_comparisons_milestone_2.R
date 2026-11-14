@@ -47,7 +47,7 @@ library(gt)
 
 getwd()
 setwd("C:/NRSC_510")
-cohort <- readRDS("ipv_cohort_clean.rds")
+cohort <- readRDS("ipv_cohort_clean.rds") #read in rds
 
 # Explicitly resolve MASS::select conflict with dplyr::select
 # MASS masks dplyr's select function when loaded — this ensures
