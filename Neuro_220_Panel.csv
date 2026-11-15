@@ -1,223 +1,223 @@
 Panel,Uniprot ID,Target List,Hallmarks of Neurodegenerative Disease,Function
-"CNS Panel 120, Neuro 220 Panel","P05067","Abeta38 (ab38)","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P05067","Abeta40 (ab40)","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P05067","Abeta42 (ab42)","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P22303","ACHE","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","O00468","AGRN","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","P08758","ANXA5","Inflammation",""
-"Neuro 220 Panel","P02647","ApoA1","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","P02652","APOA2","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","P02649","APOE","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","P02649","APOE4","Pathological Protein Aggregation",""
-"Neuro 220 Panel","P02749","APOH (Apolipoprotein H/B2G1)","Inflammation",""
-"Neuro 220 Panel","P55087","AQP4","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","P15289","ARSA","Aberrant proteostasis",""
-"Neuro 220 Panel","Q99700","ATXN2 (ATX2/SCA2/TNRC13)","Pathological Protein Aggregation",""
-"Neuro 220 Panel","P54252","ATXN3 (ATX3/MJD/MJD1/SCA3)","Pathological Protein Aggregation",""
-"Neuro 220 Panel","P30530","AXL (UFO)","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","P56817","BACE1","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P80723","BASP1","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","Q96GW7","BCAN (BEHAB/CSPG7)","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","P10636","BD-pTau181","Pathological Protein Aggregation",""
-"Neuro 220 Panel","P10636","BD-pTau205","Pathological Protein Aggregation",""
-"Neuro 220 Panel","P10636","BD-pTau212","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P10636","BD-pTau217","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P10636","BD-pTau231","Pathological Protein Aggregation",""
-"Neuro 220 Panel","P10636","BD-tTau","Pathological Protein Aggregation",""
-"Inflammation 250, CNS Panel 120, Neuro 220 Panel, Immune 340","P23560","BDNF","Synaptic and Neuronal Network Defects","Growth Factors"
-"Neuro 220 Panel","P02745","C1Q","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","P22676","CALB2","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P13500","CCL2 (MCP-1)","Inflammation","Chemokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P10147","CCL3 (MIP-1Î±)","Inflammation","Chemokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","P13236","CCL4 (MIP-1Î²)","Inflammation","Chemokines"
-"Neuro 220 Panel, Inflammation 250, Immune 340","P13501","CCL5 (RANTES)","Inflammation","Chemokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P51671","CCL11 (Eotaxin)","Inflammation","Chemokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","Q99616","CCL13 (ÎœCP-4)","Inflammation","Chemokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","Q92583","CCL17 (TARC)","Inflammation","Chemokines"
-"Neuro 220 Panel","P55774","CCL18","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","O00626","CCL22 (MDC)","Inflammation","Chemokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","Q9Y258","CCL26 (Eotaxin-3)","Inflammation","Chemokines"
-"Neuro 220 Panel","P20138","CD33","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P29965","CD40LG","Inflammation","Regulation"
-"CNS Panel 120, Neuro 220 Panel","P08962","CD63","Aberrant proteostasis",""
-"Neuro 220 Panel","P06881","CGRP","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P36222","CHI3L1 (YKL-40)","Inflammation","Regulation"
-"CNS Panel 120, Neuro 220 Panel","Q13231","CHIT1","Inflammation",""
-"Neuro 220 Panel","Q96KN2","CNDP1","Altered Energy Homeostasis",""
-"CNS Panel 120, Neuro 220 Panel","Q02246","CNTN2","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","P06850","CRH","DNA and/or RNA defects",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","P02741","CRP","Inflammation","Other"
-"Neuro 220 Panel, Inflammation 250, Immune 340","P07333","CSF1R (CD115)","Inflammation","Receptor"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P04141","CSF2 (GM-CSF)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel","P01034","CST3","Aberrant proteostasis",""
-"Neuro 220 Panel","P28325","CST5","Aberrant Proteostasis",""
-"Neuro 220 Panel","P35222","CTNNB1","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P78423","CX3CL1 (Fractalkine)","Synaptic and Neuronal Network Defects","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P09341","CXCL1 (GROÎ±)","Inflammation","Chemokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","P10145","CXCL8 (IL-8)","Inflammation","Chemokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P02778","CXCL10 (IP-10)","Inflammation","Chemokines"
-"Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","O43927","CXCL13 (BCA-1)","Inflammation","Chemokines"
-"CNS Panel 120, Neuro 220 Panel","P20711","DDC","Altered Energy Homeostasis",""
-"Neuro 220 Panel","O94907","Dkk1","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","P78352","DLG4 (PSD-95)","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","O00429","DNM1L(DRP1/DLP1)","Altered Energy Homeostasis",""
-"Neuro 220 Panel","Q9HAV5","EDA2R","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","Q12805","EFEMP1","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","P00533","EGFR","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","Q13541","EIF4EBP1","DNA and/or RNA defects",""
-"Neuro 220 Panel","P10636","eMTBR-Tau","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P09104","ENO2","Altered Energy Homeostasis",""
-"Neuro 220 Panel","P25116","F2R","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","P05413","FABP3","Altered Energy Homeostasis",""
-"Neuro 220 Panel","P58499","FAM3B","Neuronal Cell Death",""
-"Neuro 220 Panel","P12318","FCGR2A (CD32A)","Inflammation",""
-"Neuro 220 Panel","P31994","FCGR2B (CD32B)","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","Q15485","FCN2","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","P09038","FGF2 (bFGF)","Synaptic and Neuronal Network Defects","Growth Factors"
-"Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","Q9NSA1","FGF21","Altered Energy Homeostasis","Growth Factors"
-"Neuro 220 Panel","Q14512","FGFBP1","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","P17948","FLT1 (VEGF R1)","Synaptic and Neuronal Network Defects","Receptor"
-"CNS Panel 120, Neuro 220 Panel","P15328","FOLR1","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","P17677","GAP43","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","Q14393","GAS6","Inflammation",""
-"Neuro 220 Panel","P04062","GBA1","Aberrant Proteostasis",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","Q99988","GDF-15","Inflammation","Growth Factors"
-"CNS Panel 120, Neuro 220 Panel","P31150","GDI1","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","P39905","GDNF","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","P14136","GFAP","Inflammation","Other"
-"Neuro 220 Panel","P43220","GLP1R","Altered Energy Homeostasis",""
-"CNS Panel 120, Neuro 220 Panel","P17174","GOT1","Altered Energy Homeostasis",""
-"Neuro 220 Panel","Q14956","GPNMB","Aberrant Proteostasis",""
-"Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P28799","GRN (Progranulin)","Pathological Protein Aggregation","Other"
-"Neuro 220 Panel","P57764","GSDMD","Neuronal Cell Death",""
-"Neuro 220 Panel","O60443","GSDME","Neuronal Cell Death",""
-"CNS Panel 120, Neuro 220 Panel","P69905","HBA1; HBA2 (HBÎ±1; HBÎ±2)","Altered Energy Homeostasis",""
-"Neuro 220 Panel","P09601","HMOX1","Altered Energy Homeostasis",""
-"Neuro 220 Panel","O60760","HPGDS","Inflammation",""
-"Neuro 220 Panel","P04792","HSPB1","Aberrant Proteostasis",""
-"CNS Panel 120, Neuro 220 Panel","P42858","HTT","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P05362","ICAM1 (CD54)","Inflammation","Other"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P01579","IFNG (IFN-Î³)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel","P08069","IGF1R","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","Q16270","IGFBP7","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P01584","IL-1B (IL1B)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P60568","IL-2 (IL2)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P05112","IL-4 (IL4)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P05113","IL-5 (IL5)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P05231","IL-6 (IL6)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P08887","IL-6R (IL-6RA)","Inflammation","Receptor"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P13232","IL-7 (IL7)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P15248","IL-9 (IL9)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","P22301","IL-10 (IL10)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P29459|P29460","IL-12A|IL-12B (IL-12p70)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","P35225","IL-13 (IL13)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P40933","IL-15 (IL15)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","Q14005","IL-16 (IL16)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ,Immune 340","Q16552","IL-17A (IL17A)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","Q14116","IL-18 (IL18)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel","O95760","IL-33 (IL33)","Inflammation",""
-"Neuro 220 Panel","P06756","ITGAV (CD51)","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P35968","KDR (VEGFR-2)","Synaptic and Neuronal Network Defects","Receptor"
-"CNS Panel 120, Neuro 220 Panel","Q92876","KLK6","Aberrant Proteostasis",""
-"Neuro 220 Panel","P32004","L1CAM","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","P01130","LDLR","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","P17931","LGALS3","Inflammation",""
-"Neuro 220 Panel","Q5S007","LRRK2","DNA and/or RNA defects",""
-"Neuro 220 Panel","P20916","MAG","Cytoskeletal Abnormalities",""
-"CNS Panel 120, Neuro 220 Panel","P40925","MDH1","Altered Energy Homeostasis",""
-"Neuro 220 Panel","P21741","MDK (Midkine)","Inflammation",""
-"Neuro 220 Panel","P42858","mHTT-exon1 (HTT)","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P08473","MME","Aberrant Proteostasis",""
-"Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P14780","MMP9","Inflammation","Other"
-"Neuro 220 Panel","P09238","MMP10","Inflammation",""
-"Neuro 220 Panel","Q16653","MOG","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","Q13421","MSLN","",""
-"Neuro 220 Panel","P13591","NCAM1","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","P12036","NEFH","Cytoskeletal Abnormalities",""
-"CNS Panel 120, Neuro 220 Panel, Immune 340","P07196","NEFL (NfL)","Cytoskeletal Abnormalities",""
-"Neuro 220 Panel","Q92832","NELL1","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","P19838","NFKB1","Inflammation",""
-"Neuro 220 Panel","Q00653","NFKB2","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P01138","NGF","Synaptic and Neuronal Network Defects","Growth Factors"
-"Neuro 220 Panel","Q96P20","NLRP3","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","Q15818","NPTX1","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","P47972","NPTX2","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","O95502","NPTXR","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","P01303","NPY","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","Q92686","NRGN","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","P16860","NT-ProBNP (NPPB)","vascular/cerebrovascular dysfunction",""
-"Neuro 220 Panel","Q16620","NTRK2","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","Q16288","NTRK3","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","P37840","Oligo-SNCA (SNCAagg)","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","Q15102","PAFAH1B3 (PAFAHG)","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","Q99497","PARK7 (DJ-1)","Altered Energy Homeostasis",""
-"Neuro 220 Panel","P09874","PARP1","DNA and/or RNA defects",""
-"Neuro 220 Panel","Q9NRA1","PDGFC","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","P09619","PDGFRB","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","Q96HC4","PDLIM5","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P49763","PGF","Inflammation","Growth Factors"
-"CNS Panel 120, Neuro 220 Panel","P00558","PGK1 (PGK1)","Altered Energy Homeostasis",""
-"Neuro 220 Panel","Q03405","PLAUR","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","Q15063","POSTN","Inflammation",""
-"Neuro 220 Panel","P02775","PPBP (CXCL7)","Inflammation",""
-"Neuro 220 Panel","O60260","pPRKN-S65 (PRKN)","Altered Energy Homeostasis",""
-"Neuro 220 Panel","P01298","PPY","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","P54252","pQ-ATXN3 (ATXN3/ATX3/MJD/MJD1/SCA3)","Pathological Protein Aggregation",""
-"Neuro 220 Panel","P42858","pQ-HTT (HTT)","Pathological Protein Aggregation",""
-"Neuro 220 Panel","P61026","pRab10-T73","Aberrant Proteostasis",""
-"Neuro 220 Panel","Q6IQ22","pRab12-S106","Aberrant Proteostasis",""
-"Neuro 220 Panel","O14966","pRab29-T71","Aberrant Proteostasis",""
-"Neuro 220 Panel","P30044","PRDX5","Altered Energy Homeostasis",""
-"CNS Panel 120, Neuro 220 Panel","P30041","PRDX6","Altered Energy Homeostasis",""
-"Neuro 220 Panel","O60260","PRKN (Parkin)","DNA and/or RNA defects",""
-"Neuro 220 Panel","P07225","PROS1","Inflammation",""
-"Neuro 220 Panel","Q5S007","pS1292 LRRK2","DNA and/or RNA defects",""
-"CNS Panel 120, Neuro 220 Panel","P49768","PSEN1","Pathological Protein Aggregation",""
-"Neuro 220 Panel","Q06323","PSME1","Aberrant proteostasis",""
-"CNS Panel 120, Neuro 220 Panel","P37840","pSNCA-129 (SNCA)","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","Q13148","pTARDBP-S409","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P10636","pTau181","Pathological Protein Aggregation",""
-"Neuro 220 Panel","P10636","pTau205","Pathological Protein Aggregation",""
-"Neuro 220 Panel","P10636","pTau212","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P10636","pTau217","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P10636","pTau231","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P21246","PTN","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","Q13332","PTPRS","Cytoskeletal Abnormalities",""
-"Neuro 220 Panel","P61026","Rab10","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","Q6IQ22","Rab12","Synaptic and Neuronal Network Defects",""
-"Neuro 220 Panel","O14966","RAB29","Aberrant Proteostasis",""
-"CNS Panel 120, Neuro 220 Panel","Q13127","REST","DNA and/or RNA defects",""
-"CNS Panel 120, Neuro 220 Panel","Q9Y230","RUVBL2","DNA and/or RNA defects",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P80511","S100A12","Inflammation","Other"
-"CNS Panel 120, Neuro 220 Panel","P04271","S100B","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","P0DJI8","SAA1","Inflammation",""
-"Neuro 220 Panel","P01011","SerpinA3","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","Q8N474","SFRP1","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","P35247","SFTPD","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","O94813","SLIT2","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","Q9H4F8","SMOC1","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","P60880","SNAP25","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","P37840","SNCA","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","Q16143","SNCB","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P00441","SOD1","Altered Energy Homeostasis",""
-"Neuro 220 Panel","Q9BX95","SPP1","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel","Q13501","SQSTM1","Aberrant Proteostasis",""
-"Neuro 220 Panel","Q93045","STMN2","Cytoskeletal Abnormalities",""
-"Neuro 220 Panel","Q12846","STX4","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel","Q13148","TDP-43 (TARDBP)","DNA and/or RNA defects",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","Q02763","TEK (TIE-2)","Synaptic and Neuronal Network Defects","Receptor"
-"CNS Panel 120, Neuro 220 Panel","P35625","TIMP3","Inflammation",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","P01375","TNF (TNF-Î±)","Inflammation","Cytokines"
-"Neuro 220 Panel, Inflammation 250, Immune 340","O43557","TNFSF14 (CD258)","Inflammation","Cytokines"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","Q9NP99","TREM-1 (sTREM1)","Inflammation","Receptor"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","Q9NZC2","TREM-2","Inflammation","Receptor"
-"CNS Panel 120, Neuro 220 Panel","P10636","tTau (totalTau)","Pathological Protein Aggregation",""
-"CNS Panel 120, Neuro 220 Panel","P0CG47","UBB","Aberrant Proteostasis",""
-"CNS Panel 120, Neuro 220 Panel","P09936","UCHL1","Aberrant Proteostasis",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340","P19320","VCAM-1 (CD106)","Inflammation","Other"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P15692","VEGF-A","Synaptic and Neuronal Network Defects","Growth Factors"
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","O43915","VEGF-D","Synaptic and Neuronal Network Defects","Growth Factors"
-"CNS Panel 120, Neuro 220 Panel","O15240","VGF","Synaptic and Neuronal Network Defects",""
-"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340","P62760","VSNL1 (VILIP)","Neuronal Cell Death","Other"
-"CNS Panel 120, Neuro 220 Panel","P61981","YWHAG","Neuronal Cell Death",""
-"CNS Panel 120, Neuro 220 Panel","P63104","YWHAZ","Synaptic and Neuronal Network Defects",""
+"CNS Panel 120, Neuro 220 Panel",P05067,Abeta38 (ab38),Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P05067,Abeta40 (ab40),Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P05067,Abeta42 (ab42),Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P22303,ACHE,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",O00468,AGRN,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",P08758,ANXA5,Inflammation,
+Neuro 220 Panel,P02647,ApoA1,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,P02652,APOA2,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",P02649,APOE,Inflammation,
+"CNS Panel 120, Neuro 220 Panel",P02649,APOE4,Pathological Protein Aggregation,
+Neuro 220 Panel,P02749,APOH (Apolipoprotein H/B2G1),Inflammation,
+Neuro 220 Panel,P55087,AQP4,Inflammation,
+"CNS Panel 120, Neuro 220 Panel",P15289,ARSA,Aberrant proteostasis,
+Neuro 220 Panel,Q99700,ATXN2 (ATX2/SCA2/TNRC13),Pathological Protein Aggregation,
+Neuro 220 Panel,P54252,ATXN3 (ATX3/MJD/MJD1/SCA3),Pathological Protein Aggregation,
+Neuro 220 Panel,P30530,AXL (UFO),Inflammation,
+"CNS Panel 120, Neuro 220 Panel",P56817,BACE1,Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P80723,BASP1,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,Q96GW7,BCAN (BEHAB/CSPG7),Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",P10636,BD-pTau181,Pathological Protein Aggregation,
+Neuro 220 Panel,P10636,BD-pTau205,Pathological Protein Aggregation,
+Neuro 220 Panel,P10636,BD-pTau212,Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P10636,BD-pTau217,Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P10636,BD-pTau231,Pathological Protein Aggregation,
+Neuro 220 Panel,P10636,BD-tTau,Pathological Protein Aggregation,
+"Inflammation 250, CNS Panel 120, Neuro 220 Panel, Immune 340",P23560,BDNF,Synaptic and Neuronal Network Defects,Growth Factors
+Neuro 220 Panel,P02745,C1Q,Inflammation,
+"CNS Panel 120, Neuro 220 Panel",P22676,CALB2,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P13500,CCL2 (MCP-1),Inflammation,Chemokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P10147,CCL3 (MIP-1Î±),Inflammation,Chemokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",P13236,CCL4 (MIP-1Î²),Inflammation,Chemokines
+"Neuro 220 Panel, Inflammation 250, Immune 340",P13501,CCL5 (RANTES),Inflammation,Chemokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P51671,CCL11 (Eotaxin),Inflammation,Chemokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",Q99616,CCL13 (ÎœCP-4),Inflammation,Chemokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",Q92583,CCL17 (TARC),Inflammation,Chemokines
+Neuro 220 Panel,P55774,CCL18,Inflammation,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",O00626,CCL22 (MDC),Inflammation,Chemokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",Q9Y258,CCL26 (Eotaxin-3),Inflammation,Chemokines
+Neuro 220 Panel,P20138,CD33,Inflammation,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P29965,CD40LG,Inflammation,Regulation
+"CNS Panel 120, Neuro 220 Panel",P08962,CD63,Aberrant proteostasis,
+Neuro 220 Panel,P06881,CGRP,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P36222,CHI3L1 (YKL-40),Inflammation,Regulation
+"CNS Panel 120, Neuro 220 Panel",Q13231,CHIT1,Inflammation,
+Neuro 220 Panel,Q96KN2,CNDP1,Altered Energy Homeostasis,
+"CNS Panel 120, Neuro 220 Panel",Q02246,CNTN2,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",P06850,CRH,DNA and/or RNA defects,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",P02741,CRP,Inflammation,Other
+"Neuro 220 Panel, Inflammation 250, Immune 340",P07333,CSF1R (CD115),Inflammation,Receptor
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P04141,CSF2 (GM-CSF),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel",P01034,CST3,Aberrant proteostasis,
+Neuro 220 Panel,P28325,CST5,Aberrant Proteostasis,
+Neuro 220 Panel,P35222,CTNNB1,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P78423,CX3CL1 (Fractalkine),Synaptic and Neuronal Network Defects,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P09341,CXCL1 (GROÎ±),Inflammation,Chemokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",P10145,CXCL8 (IL-8),Inflammation,Chemokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P02778,CXCL10 (IP-10),Inflammation,Chemokines
+"Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",O43927,CXCL13 (BCA-1),Inflammation,Chemokines
+"CNS Panel 120, Neuro 220 Panel",P20711,DDC,Altered Energy Homeostasis,
+Neuro 220 Panel,O94907,Dkk1,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,P78352,DLG4 (PSD-95),Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,O00429,DNM1L(DRP1/DLP1),Altered Energy Homeostasis,
+Neuro 220 Panel,Q9HAV5,EDA2R,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,Q12805,EFEMP1,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,P00533,EGFR,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,Q13541,EIF4EBP1,DNA and/or RNA defects,
+Neuro 220 Panel,P10636,eMTBR-Tau,Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P09104,ENO2,Altered Energy Homeostasis,
+Neuro 220 Panel,P25116,F2R,Inflammation,
+"CNS Panel 120, Neuro 220 Panel",P05413,FABP3,Altered Energy Homeostasis,
+Neuro 220 Panel,P58499,FAM3B,Neuronal Cell Death,
+Neuro 220 Panel,P12318,FCGR2A (CD32A),Inflammation,
+Neuro 220 Panel,P31994,FCGR2B (CD32B),Inflammation,
+"CNS Panel 120, Neuro 220 Panel",Q15485,FCN2,Inflammation,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",P09038,FGF2 (bFGF),Synaptic and Neuronal Network Defects,Growth Factors
+"Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",Q9NSA1,FGF21,Altered Energy Homeostasis,Growth Factors
+Neuro 220 Panel,Q14512,FGFBP1,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",P17948,FLT1 (VEGF R1),Synaptic and Neuronal Network Defects,Receptor
+"CNS Panel 120, Neuro 220 Panel",P15328,FOLR1,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,P17677,GAP43,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,Q14393,GAS6,Inflammation,
+Neuro 220 Panel,P04062,GBA1,Aberrant Proteostasis,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",Q99988,GDF-15,Inflammation,Growth Factors
+"CNS Panel 120, Neuro 220 Panel",P31150,GDI1,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",P39905,GDNF,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",P14136,GFAP,Inflammation,Other
+Neuro 220 Panel,P43220,GLP1R,Altered Energy Homeostasis,
+"CNS Panel 120, Neuro 220 Panel",P17174,GOT1,Altered Energy Homeostasis,
+Neuro 220 Panel,Q14956,GPNMB,Aberrant Proteostasis,
+"Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P28799,GRN (Progranulin),Pathological Protein Aggregation,Other
+Neuro 220 Panel,P57764,GSDMD,Neuronal Cell Death,
+Neuro 220 Panel,O60443,GSDME,Neuronal Cell Death,
+"CNS Panel 120, Neuro 220 Panel",P69905,HBA1; HBA2 (HBÎ±1; HBÎ±2),Altered Energy Homeostasis,
+Neuro 220 Panel,P09601,HMOX1,Altered Energy Homeostasis,
+Neuro 220 Panel,O60760,HPGDS,Inflammation,
+Neuro 220 Panel,P04792,HSPB1,Aberrant Proteostasis,
+"CNS Panel 120, Neuro 220 Panel",P42858,HTT,Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P05362,ICAM1 (CD54),Inflammation,Other
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P01579,IFNG (IFN-Î³),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel",P08069,IGF1R,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",Q16270,IGFBP7,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P01584,IL-1B (IL1B),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P60568,IL-2 (IL2),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P05112,IL-4 (IL4),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P05113,IL-5 (IL5),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P05231,IL-6 (IL6),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P08887,IL-6R (IL-6RA),Inflammation,Receptor
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P13232,IL-7 (IL7),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P15248,IL-9 (IL9),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",P22301,IL-10 (IL10),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P29459|P29460,IL-12A|IL-12B (IL-12p70),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",P35225,IL-13 (IL13),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P40933,IL-15 (IL15),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",Q14005,IL-16 (IL16),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ,Immune 340",Q16552,IL-17A (IL17A),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",Q14116,IL-18 (IL18),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel",O95760,IL-33 (IL33),Inflammation,
+Neuro 220 Panel,P06756,ITGAV (CD51),Inflammation,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P35968,KDR (VEGFR-2),Synaptic and Neuronal Network Defects,Receptor
+"CNS Panel 120, Neuro 220 Panel",Q92876,KLK6,Aberrant Proteostasis,
+Neuro 220 Panel,P32004,L1CAM,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,P01130,LDLR,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,P17931,LGALS3,Inflammation,
+Neuro 220 Panel,Q5S007,LRRK2,DNA and/or RNA defects,
+Neuro 220 Panel,P20916,MAG,Cytoskeletal Abnormalities,
+"CNS Panel 120, Neuro 220 Panel",P40925,MDH1,Altered Energy Homeostasis,
+Neuro 220 Panel,P21741,MDK (Midkine),Inflammation,
+Neuro 220 Panel,P42858,mHTT-exon1 (HTT),Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P08473,MME,Aberrant Proteostasis,
+"Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P14780,MMP9,Inflammation,Other
+Neuro 220 Panel,P09238,MMP10,Inflammation,
+Neuro 220 Panel,Q16653,MOG,Inflammation,
+"CNS Panel 120, Neuro 220 Panel",Q13421,MSLN,,
+Neuro 220 Panel,P13591,NCAM1,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",P12036,NEFH,Cytoskeletal Abnormalities,
+"CNS Panel 120, Neuro 220 Panel, Immune 340",P07196,NEFL (NfL),Cytoskeletal Abnormalities,
+Neuro 220 Panel,Q92832,NELL1,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,P19838,NFKB1,Inflammation,
+Neuro 220 Panel,Q00653,NFKB2,Inflammation,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P01138,NGF,Synaptic and Neuronal Network Defects,Growth Factors
+Neuro 220 Panel,Q96P20,NLRP3,Inflammation,
+"CNS Panel 120, Neuro 220 Panel",Q15818,NPTX1,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",P47972,NPTX2,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",O95502,NPTXR,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",P01303,NPY,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",Q92686,NRGN,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,P16860,NT-ProBNP (NPPB),vascular/cerebrovascular dysfunction,
+Neuro 220 Panel,Q16620,NTRK2,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,Q16288,NTRK3,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",P37840,Oligo-SNCA (SNCAagg),Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,Q15102,PAFAH1B3 (PAFAHG),Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",Q99497,PARK7 (DJ-1),Altered Energy Homeostasis,
+Neuro 220 Panel,P09874,PARP1,DNA and/or RNA defects,
+Neuro 220 Panel,Q9NRA1,PDGFC,Inflammation,
+"CNS Panel 120, Neuro 220 Panel",P09619,PDGFRB,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",Q96HC4,PDLIM5,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P49763,PGF,Inflammation,Growth Factors
+"CNS Panel 120, Neuro 220 Panel",P00558,PGK1 (PGK1),Altered Energy Homeostasis,
+Neuro 220 Panel,Q03405,PLAUR,Inflammation,
+"CNS Panel 120, Neuro 220 Panel",Q15063,POSTN,Inflammation,
+Neuro 220 Panel,P02775,PPBP (CXCL7),Inflammation,
+Neuro 220 Panel,O60260,pPRKN-S65 (PRKN),Altered Energy Homeostasis,
+Neuro 220 Panel,P01298,PPY,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,P54252,pQ-ATXN3 (ATXN3/ATX3/MJD/MJD1/SCA3),Pathological Protein Aggregation,
+Neuro 220 Panel,P42858,pQ-HTT (HTT),Pathological Protein Aggregation,
+Neuro 220 Panel,P61026,pRab10-T73,Aberrant Proteostasis,
+Neuro 220 Panel,Q6IQ22,pRab12-S106,Aberrant Proteostasis,
+Neuro 220 Panel,O14966,pRab29-T71,Aberrant Proteostasis,
+Neuro 220 Panel,P30044,PRDX5,Altered Energy Homeostasis,
+"CNS Panel 120, Neuro 220 Panel",P30041,PRDX6,Altered Energy Homeostasis,
+Neuro 220 Panel,O60260,PRKN (Parkin),DNA and/or RNA defects,
+Neuro 220 Panel,P07225,PROS1,Inflammation,
+Neuro 220 Panel,Q5S007,pS1292 LRRK2,DNA and/or RNA defects,
+"CNS Panel 120, Neuro 220 Panel",P49768,PSEN1,Pathological Protein Aggregation,
+Neuro 220 Panel,Q06323,PSME1,Aberrant proteostasis,
+"CNS Panel 120, Neuro 220 Panel",P37840,pSNCA-129 (SNCA),Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",Q13148,pTARDBP-S409,Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P10636,pTau181,Pathological Protein Aggregation,
+Neuro 220 Panel,P10636,pTau205,Pathological Protein Aggregation,
+Neuro 220 Panel,P10636,pTau212,Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P10636,pTau217,Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P10636,pTau231,Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P21246,PTN,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,Q13332,PTPRS,Cytoskeletal Abnormalities,
+Neuro 220 Panel,P61026,Rab10,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,Q6IQ22,Rab12,Synaptic and Neuronal Network Defects,
+Neuro 220 Panel,O14966,RAB29,Aberrant Proteostasis,
+"CNS Panel 120, Neuro 220 Panel",Q13127,REST,DNA and/or RNA defects,
+"CNS Panel 120, Neuro 220 Panel",Q9Y230,RUVBL2,DNA and/or RNA defects,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P80511,S100A12,Inflammation,Other
+"CNS Panel 120, Neuro 220 Panel",P04271,S100B,Inflammation,
+"CNS Panel 120, Neuro 220 Panel",P0DJI8,SAA1,Inflammation,
+Neuro 220 Panel,P01011,SerpinA3,Inflammation,
+"CNS Panel 120, Neuro 220 Panel",Q8N474,SFRP1,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",P35247,SFTPD,Inflammation,
+"CNS Panel 120, Neuro 220 Panel",O94813,SLIT2,Inflammation,
+"CNS Panel 120, Neuro 220 Panel",Q9H4F8,SMOC1,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",P60880,SNAP25,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",P37840,SNCA,Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",Q16143,SNCB,Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P00441,SOD1,Altered Energy Homeostasis,
+Neuro 220 Panel,Q9BX95,SPP1,Inflammation,
+"CNS Panel 120, Neuro 220 Panel",Q13501,SQSTM1,Aberrant Proteostasis,
+Neuro 220 Panel,Q93045,STMN2,Cytoskeletal Abnormalities,
+Neuro 220 Panel,Q12846,STX4,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel",Q13148,TDP-43 (TARDBP),DNA and/or RNA defects,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",Q02763,TEK (TIE-2),Synaptic and Neuronal Network Defects,Receptor
+"CNS Panel 120, Neuro 220 Panel",P35625,TIMP3,Inflammation,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",P01375,TNF (TNF-Î±),Inflammation,Cytokines
+"Neuro 220 Panel, Inflammation 250, Immune 340",O43557,TNFSF14 (CD258),Inflammation,Cytokines
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",Q9NP99,TREM-1 (sTREM1),Inflammation,Receptor
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",Q9NZC2,TREM-2,Inflammation,Receptor
+"CNS Panel 120, Neuro 220 Panel",P10636,tTau (totalTau),Pathological Protein Aggregation,
+"CNS Panel 120, Neuro 220 Panel",P0CG47,UBB,Aberrant Proteostasis,
+"CNS Panel 120, Neuro 220 Panel",P09936,UCHL1,Aberrant Proteostasis,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Immune 340",P19320,VCAM-1 (CD106),Inflammation,Other
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P15692,VEGF-A,Synaptic and Neuronal Network Defects,Growth Factors
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",O43915,VEGF-D,Synaptic and Neuronal Network Defects,Growth Factors
+"CNS Panel 120, Neuro 220 Panel",O15240,VGF,Synaptic and Neuronal Network Defects,
+"CNS Panel 120, Neuro 220 Panel, Inflammation 250, Inflammation AQ, Immune 340",P62760,VSNL1 (VILIP),Neuronal Cell Death,Other
+"CNS Panel 120, Neuro 220 Panel",P61981,YWHAG,Neuronal Cell Death,
+"CNS Panel 120, Neuro 220 Panel",P63104,YWHAZ,Synaptic and Neuronal Network Defects,
