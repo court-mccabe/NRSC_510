@@ -453,28 +453,33 @@ make_volcano <- function(result_df, contrast_label, sig_threshold = 0.05,
 }
 
 
-# Step 31: Diagnostic p-value histograms
-# Plots the raw limma p-value distribution per contrast to confirm the pipeline
-# is producing well-behaved p-values. A right-skewed distribution (spike near 0,
-# flat elsewhere) indicates real signal. A uniform distribution indicates mostly
-# null proteins, which is expected for simulated data at n=66.
-# This documents that the flat appearance of primary volcano plots is caused by
-# BH correction on mostly-null data, not by a pipeline error.
+# Step 31: Diagnostic p-value distribution checks
+# Two histograms produced per contrast: raw p-values and BH-adjusted p-values.
+# Raw: confirms eBayes is producing a well-behaved distribution.
+#   Right-skewed (spike near 0) = real signal present.
+#   Uniform = mostly null, expected for simulated data at n=66.
+# Adjusted: confirms BH correction ran correctly.
+#   Most proteins should pile near 1 (null); a small tail near 0 = surviving signal.
+#   If adjusted distribution mirrors raw exactly, BH correction did not apply.
+# A printed summary table shows how many proteins fall into each significance
+# band (< 0.05, 0.05–0.20, 0.20–0.50, > 0.50) for both raw and adjusted p.
 
 for (cn in contrast_names) {
   tt <- topTable(fit2, coef = cn, number = Inf, adjust = "BH", sort.by = "none")
   
-  p_hist <- ggplot(tt, aes(x = P.Value)) +
+  p_raw <- ggplot(tt, aes(x = P.Value)) +
     geom_histogram(bins = 50, fill = "grey70", color = "white", linewidth = 0.3) +
-    geom_vline(xintercept = 0.05, linetype = "dashed", color = "#E41A1C", linewidth = 0.5) +
+    geom_vline(xintercept = 0.05, linetype = "dashed",
+               color = "#E41A1C", linewidth = 0.5) +
     labs(
       title    = paste0("Raw p-value distribution: ", contrast_labels[cn]),
-      subtitle = paste0("Confirms pipeline is correct — flat volcano reflects BH correction ",
-                        "on mostly-null data, not a pipeline error\n", data_note),
-      x        = "Raw p-value (unadjusted)",
-      y        = "Number of proteins",
-      caption  = paste0("Red line: p = 0.05  |  Proteins with raw p < 0.05: ",
-                        sum(tt$P.Value < 0.05))
+      subtitle = paste0(
+        "Well-behaved = spike near 0 or uniform (null); flat volcano = BH on mostly-null data\n",
+        data_note),
+      x       = "Raw p-value (unadjusted)",
+      y       = "Number of proteins",
+      caption = paste0("Red line: p = 0.05  |  Proteins with raw p < 0.05: ",
+                       sum(tt$P.Value < 0.05))
     ) +
     theme_classic(base_size = 10) +
     theme(
@@ -483,15 +488,64 @@ for (cn in contrast_names) {
       plot.caption  = element_text(color = "grey50", size = 8)
     )
   
-  print(p_hist)
-  ggsave(file.path(output_dir, paste0("diagnostic_pval_hist_", cn, ".png")),
-         plot = p_hist, width = 8, height = 5, dpi = 300)
+  p_adj <- ggplot(tt, aes(x = adj.P.Val)) +
+    geom_histogram(bins = 50, fill = "#377EB8", color = "white",
+                   alpha = 0.7, linewidth = 0.3) +
+    geom_vline(xintercept = 0.05, linetype = "dashed",
+               color = "#E41A1C", linewidth = 0.5) +
+    geom_vline(xintercept = 0.20, linetype = "dashed",
+               color = "#FF7F00", linewidth = 0.5) +
+    labs(
+      title    = paste0("BH-adjusted p-value distribution: ", contrast_labels[cn]),
+      subtitle = paste0(
+        "Expected: most proteins near 1 (null); small tail near 0 = surviving signal\n",
+        data_note),
+      x       = "BH-adjusted p-value",
+      y       = "Number of proteins",
+      caption = paste0(
+        "Red: FDR < 0.05 (", sum(tt$adj.P.Val < 0.05), " proteins)  |  ",
+        "Orange: FDR < 0.20 (", sum(tt$adj.P.Val < 0.20), " proteins)")
+    ) +
+    theme_classic(base_size = 10) +
+    theme(
+      plot.title    = element_text(face = "bold", hjust = 0.5, size = 10),
+      plot.subtitle = element_text(color = "grey40", hjust = 0.5, size = 7),
+      plot.caption  = element_text(color = "grey50", size = 8)
+    )
+  
+  print(p_raw)
+  print(p_adj)
+  
+  ggsave(file.path(output_dir, paste0("diagnostic_pval_raw_", cn, ".png")),
+         plot = p_raw, width = 8, height = 5, dpi = 300)
+  ggsave(file.path(output_dir, paste0("diagnostic_pval_adj_", cn, ".png")),
+         plot = p_adj, width = 8, height = 5, dpi = 300)
+  
+  band_summary <- tibble(
+    contrast        = contrast_labels[cn],
+    band            = c("< 0.05", "0.05-0.20", "0.20-0.50", "> 0.50"),
+    n_raw_p         = c(
+      sum(tt$P.Value < 0.05),
+      sum(tt$P.Value >= 0.05  & tt$P.Value < 0.20),
+      sum(tt$P.Value >= 0.20  & tt$P.Value < 0.50),
+      sum(tt$P.Value >= 0.50)
+    ),
+    n_adj_p         = c(
+      sum(tt$adj.P.Val < 0.05),
+      sum(tt$adj.P.Val >= 0.05  & tt$adj.P.Val < 0.20),
+      sum(tt$adj.P.Val >= 0.20  & tt$adj.P.Val < 0.50),
+      sum(tt$adj.P.Val >= 0.50)
+    )
+  )
+  cat("\nSignificance band summary —", contrast_labels[cn], "\n")
+  print(band_summary, n = Inf)
 }
 
-
 # Step 32: Primary volcano plots — BH-adjusted p-values, FDR < 0.05
-# Two proteins expected to be significant in the primary contrast with simulated data.
 # Flat appearance is correct and expected — see diagnostic histograms (Step 31).
+# After each plot, the range of -log10(limma_adj_p) values actually plotted is
+# printed as a trace to confirm adjusted p-values are feeding the y-axis,
+# not raw p-values.
 
 for (cn in contrast_names) {
   p <- make_volcano(pairwise_results[[cn]], contrast_labels[cn],
@@ -499,8 +553,16 @@ for (cn in contrast_names) {
   print(p)
   ggsave(file.path(output_dir, paste0("volcano_primary_", cn, ".png")),
          plot = p, width = 10, height = 7, dpi = 300)
+  
+  y_range <- pairwise_results[[cn]] %>%
+    summarise(
+      y_min  = round(min(-log10(limma_adj_p), na.rm = TRUE), 3),
+      y_max  = round(max(-log10(limma_adj_p), na.rm = TRUE), 3),
+      threshold_line = round(-log10(0.05), 3)
+    )
+  cat("\nVolcano y-axis trace (adjusted p) —", contrast_labels[cn], "\n")
+  print(y_range)
 }
-
 
 # Step 33: Identify proteins significant in at least one contrast (FDR < 0.05)
 # Union approach: qualifies if limma FDR < 0.05 in ANY contrast.
