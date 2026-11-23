@@ -488,3 +488,4 @@ walk(contrast_names, function(cn) {
     arrange(limma_adj_p) %>%
     write_csv(file.path(output_dir, paste0("results_", cn, run_label, ".csv")))
 })
+saveRDS(pairwise_results, "pairwise_results.rds")
